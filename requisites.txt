@@ -6,3 +6,12 @@ Challenge: Create a small version of Airbnb - Windbnb with given data. Use Front
     User story: I can filter properties by location and number of guests
     User story: I can see the number of filtered items
     User story: I can see pages following given designs
+    
+    Property
+    CRUD
+    Insert Photos (upload) (backend)
+    
+    Host
+    CRUD
+    Authenticate (social login)
+    
